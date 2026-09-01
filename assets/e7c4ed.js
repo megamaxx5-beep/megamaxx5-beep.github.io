@@ -1,2 +1,2 @@
 // https://megamaxx5-beep.github.io/assets/e7c4ed.js
-client_id:"Pb72ranhoyt6gw7hM7TkzUItXlMWSNSo"
+var etched={env:"production",client_id:"Pb72ranhoyt6gw7hM7TkzUItXlMWSNSo"};
